@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MCommerce</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="salvar">Salvar</string>
+</resources>
